@@ -10792,6 +10792,8 @@ function fm() {
           Snow: "snow.png",
           Drizzle: "drizzle.png",
           Wind: "wind.png",
+          Mist: "mist.png",
+          Haze: "haze.png",
         }[y] || "cloud.png"
       }`;
     o(d);
