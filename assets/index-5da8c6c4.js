@@ -10783,7 +10783,7 @@ function fm() {
     };
   Pt.useEffect(() => {
     const v = e.main ? e.weather[0].main : null,
-      c = `./${
+      c = `./assets/${
         {
           Clear: "clear.png",
           Clouds: "cloud.png",
